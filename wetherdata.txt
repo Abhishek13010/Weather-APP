@@ -1,0 +1,12 @@
+
+
+
+
+
+
+a98cdd045a52a84501b30800d816218b
+
+api.openweathermap.org/data/2.5/weather?q={Anand}&appid={a98cdd045a52a84501b30800d816218b}
+
+api.openweathermap.org/data/2.5/weather?q=Khambhat&appid=a98cdd045a52a84501b30800d816218b
+
